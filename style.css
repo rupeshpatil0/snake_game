@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+}
+
+body {
+    overflow: hidden;
+}
+
+#canvas {
+    position: absolute;
+}
+
+#canvas2 {
+    background: darkcyan;
+    left: 0;
+    top: 0;
+}
